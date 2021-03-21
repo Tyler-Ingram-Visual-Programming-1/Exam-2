@@ -23,49 +23,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="337aab39-5398-4cd2-b280-027e46aa28c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Exam2.dir/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Exam2.dir/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Exam2.dir/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Exam2.dir/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Exam2.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Exam2.dir/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Exam2.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Exam2.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Exam2.dir/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Exam2.dir/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam2.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form1.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form1.resx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Properties/Resources.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Properties/Resources.resx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Properties/Settings.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Properties/Settings.settings" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Exam-2.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.Exam-2.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Exam2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.Exam2/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Exam2/.idea/shelf/Uncommitted_changes_before_rebase__Revert__test_-3_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.Exam2/.idea/shelf/Uncommitted_changes_before_rebase__Revert__test_-3_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Exam2/.idea/shelf/Uncommitted_changes_before_rebase__Revert__test_-3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.Exam2/.idea/shelf/Uncommitted_changes_before_rebase__Revert__test_-3_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Exam2/.idea/shelf/Uncommitted_changes_before_rebase__Revert__test__.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.Exam2/.idea/shelf/Uncommitted_changes_before_rebase__Revert__test__.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Exam2/.idea/shelf/Uncommitted_changes_before_rebase__Revert__test__1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.Exam2/.idea/shelf/Uncommitted_changes_before_rebase__Revert__test__1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Exam2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.Exam2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Exam2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.Exam2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.vs/Exam2/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../.vs/Exam2/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Form1.Designer.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Form1.resx" beforeDir="false" afterPath="$PROJECT_DIR$/Form1.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/Exam2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/Exam2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/Exam2.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/Exam2.exe.config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/Exam2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/Exam2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Exam2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Exam2.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Exam2.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Exam2.csproj.GenerateResource.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Exam2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Exam2.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Exam2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Exam2.pdb" afterDir="false" />
@@ -85,23 +49,32 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Exam2.csproj" />
+        <option value="$PROJECT_DIR$/Form1.resx" />
         <option value="$PROJECT_DIR$/Program.cs" />
         <option value="$PROJECT_DIR$/Form1.Designer.cs" />
-        <option value="$PROJECT_DIR$/Form1.resx" />
         <option value="$PROJECT_DIR$/Form1.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1q36GbjMOHtaAz3kgxLfh443qty" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="WinFormsDesignerOptionsPage" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Project.Exam2">
@@ -151,8 +124,18 @@
       <option name="presentableId" value="Default" />
       <updated>1616295831873</updated>
       <workItem from="1616295834162" duration="242000" />
-      <workItem from="1616296953095" duration="985000" />
+      <workItem from="1616296953095" duration="1507000" />
+      <workItem from="1616298490111" duration="1075000" />
+      <workItem from="1616299573044" duration="3888000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Methods and UI built">
+      <created>1616298253210</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616298253210</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,28 +156,55 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Initial Methods and UI built" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Methods and UI built" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616297064548">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616297064548" />
-    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1616297473778">
+    <state width="1877" height="110" key="GridCell.Tab.0.bottom" timestamp="1616303320738">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.bottom/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616297473778" />
-    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1616297473778">
+    <state width="1877" height="110" key="GridCell.Tab.0.bottom/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616303320738" />
+    <state width="1877" height="110" key="GridCell.Tab.0.center" timestamp="1616303320738">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.center/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616297473778" />
-    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1616297473777">
+    <state width="1877" height="110" key="GridCell.Tab.0.center/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616303320738" />
+    <state width="1877" height="110" key="GridCell.Tab.0.left" timestamp="1616303320738">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.left/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616297473777" />
-    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1616297473778">
+    <state width="1877" height="110" key="GridCell.Tab.0.left/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616303320738" />
+    <state width="1877" height="110" key="GridCell.Tab.0.right" timestamp="1616303320738">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.right/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616297473778" />
+    <state width="1877" height="110" key="GridCell.Tab.0.right/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616303320738" />
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1616298635601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616298635601" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1616298566502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616298566502" />
+    <state x="644" y="236" width="740" height="580" key="ToolboxManager" timestamp="1616298844230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="644" y="236" width="740" height="580" key="ToolboxManager/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616298844230" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1616298254927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616298254927" />
+    <state x="330" y="8" width="971" height="1022" maximized="true" key="dock-window-1" timestamp="1616301582120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="330" y="8" width="971" height="1022" maximized="true" key="dock-window-1/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616301582120" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1616302398485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616302398485" />
   </component>
 </project>

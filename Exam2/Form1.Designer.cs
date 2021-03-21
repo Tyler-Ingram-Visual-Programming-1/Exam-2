@@ -91,13 +91,13 @@ namespace Exam2
             this.patientListBox.FormattingEnabled = true;
             this.patientListBox.Location = new System.Drawing.Point(15, 87);
             this.patientListBox.Name = "patientListBox";
-            this.patientListBox.Size = new System.Drawing.Size(429, 95);
+            this.patientListBox.Size = new System.Drawing.Size(435, 95);
             this.patientListBox.TabIndex = 5;
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label6.Location = new System.Drawing.Point(141, 9);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(166, 18);
@@ -142,7 +142,7 @@ namespace Exam2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(456, 290);
+            this.ClientSize = new System.Drawing.Size(462, 290);
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.clearButton);
             this.Controls.Add(this.displayPatientStatusButton);
@@ -157,7 +157,6 @@ namespace Exam2
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
-
         }
 
         #endregion
