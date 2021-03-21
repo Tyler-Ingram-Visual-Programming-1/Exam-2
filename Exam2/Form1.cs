@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -68,23 +68,23 @@ namespace Exam2
                 while (!inputFile.EndOfStream)
                 {
                     patientName = inputFile.ReadLine();
-                    systolicPressureOne = int.Parse(inputFile.ReadLine());
-                    dialosticPressureOne = int.Parse(inputFile.ReadLine());
-                    systolicPressureTwo = int.Parse(inputFile.ReadLine());
-                    dialosticPressureTwo = int.Parse(inputFile.ReadLine());
-                    systolicPressureThree = int.Parse(inputFile.ReadLine());
-                    dialosticPressureThree = int.Parse(inputFile.ReadLine());
-                    systolicPressureFour = int.Parse(inputFile.ReadLine());
-                    dialosticPressureFour = int.Parse(inputFile.ReadLine());
-                    systolicPressureFive = int.Parse(inputFile.ReadLine());
-                    dialosticPressureFive = int.Parse(inputFile.ReadLine());
-                    doctorID = int.Parse(inputFile.ReadLine());
+                    systolicPressureOne = int.Parse(inputFile.ReadLine() ?? string.Empty);
+                    dialosticPressureOne = int.Parse(inputFile.ReadLine() ?? string.Empty);
+                    systolicPressureTwo = int.Parse(inputFile.ReadLine() ?? string.Empty);
+                    dialosticPressureTwo = int.Parse(inputFile.ReadLine() ?? string.Empty);
+                    systolicPressureThree = int.Parse(inputFile.ReadLine() ?? string.Empty);
+                    dialosticPressureThree = int.Parse(inputFile.ReadLine() ?? string.Empty);
+                    systolicPressureFour = int.Parse(inputFile.ReadLine() ?? string.Empty);
+                    dialosticPressureFour = int.Parse(inputFile.ReadLine() ?? string.Empty);
+                    systolicPressureFive = int.Parse(inputFile.ReadLine() ?? string.Empty);
+                    dialosticPressureFive = int.Parse(inputFile.ReadLine() ?? string.Empty);
+                    doctorID = int.Parse(inputFile.ReadLine() ?? string.Empty);
                 }
                 inputFile.Close();
                 SystolicPressure();
                 DialosticPressure();
                 PatientStatus();
-                DoctorsName();
+                    DoctorsName();
                 DisplayOutput(doctorName);
             }
         }

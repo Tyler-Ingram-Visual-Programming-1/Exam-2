@@ -23,7 +23,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ae354d0-7f24-4da4-8717-60f57f114e94" name="Default Changelist" comment="Fixed">
-      <change beforePath="$PROJECT_DIR$/../TextBox" beforeDir="false" afterPath="$PROJECT_DIR$/../TextBox" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exam2.dir/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam2/.idea/.idea.Exam2.dir/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam2/.idea/.idea.Exam2.dir/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam2/.idea/.idea.Exam2.dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam2/.idea/.idea.Exam2.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam2/.idea/.idea.Exam2.dir/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam2/.idea/.idea.Exam2.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam2/.idea/.idea.Exam2.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam2/.idea/.idea.Exam2.dir/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam2/.idea/.idea.Exam2.dir/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam2/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam2/Exam2.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam2/Form1.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam2/Form1.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam2/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam2/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam2/Properties/Resources.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam2/Properties/Resources.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam2/Properties/Settings.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam2/Properties/Settings.settings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exam-2.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exam-2.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exam2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exam2/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exam2/.idea/shelf/Uncommitted_changes_before_rebase__Revert__test_-3_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exam2/.idea/shelf/Uncommitted_changes_before_rebase__Revert__test_-3_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exam2/.idea/shelf/Uncommitted_changes_before_rebase__Revert__test_-3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exam2/.idea/shelf/Uncommitted_changes_before_rebase__Revert__test_-3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exam2/.idea/shelf/Uncommitted_changes_before_rebase__Revert__test__.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exam2/.idea/shelf/Uncommitted_changes_before_rebase__Revert__test__.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exam2/.idea/shelf/Uncommitted_changes_before_rebase__Revert__test__1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exam2/.idea/shelf/Uncommitted_changes_before_rebase__Revert__test__1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exam2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exam2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exam2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exam2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Exam2/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Exam2/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam2/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exam2/Form1.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +69,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock://C:/Users/tyler/source/repos/Visual-Progamming-1/Exam2/Exam2/Form1.cs" root0="SKIP_HIGHLIGHTING" />
@@ -51,16 +89,19 @@
     </option>
   </component>
   <component name="ProjectId" id="1pzGYsxCWIMBVKo7XBzgJR8hc1a" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="WinFormsDesignerOptionsPage" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -92,6 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616178558206</updated>
       <workItem from="1616178563930" duration="1505000" />
+      <workItem from="1616296872196" duration="79000" />
     </task>
     <task id="LOCAL-00001" summary="&#10;test">
       <created>1616179508347</created>
@@ -120,7 +162,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -132,8 +174,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="&#10;test" />
     <MESSAGE value="Fixed" />
@@ -160,10 +207,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="590" y="164" width="740" height="602" key="MultipleFileMergeDialog/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616179696706" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1616178788325">
+    <state x="514" y="49" key="SettingsEditor" timestamp="1616296894570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616178788325" />
+    <state x="514" y="49" key="SettingsEditor/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616296894570" />
     <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1616180060269">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
