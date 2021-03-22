@@ -1,13 +1,7 @@
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
+using System.Text;
 
 namespace Exam2
 {
@@ -19,7 +13,7 @@ namespace Exam2
             InitializeComponent();
         }
         private StreamReader inputFile;
-        private const string doctor0 = "D.ABRAMS,MD", doctor1 = "D.JARVIC,MD", doctor2 = "T.PANOS,MD";
+        private const string DOCTOR0 = "D.ABRAMS,MD", DOCTOR1 = "D.JARVIC,MD", DOCTOR2 = "T.PANOS,MD";
         private string patientName, doctorName;
         private int systolicPressureOne, systolicPressureTwo, systolicPressureThree, systolicPressureFour, systolicPressureFive;
         private int dialosticPressureOne, dialosticPressureTwo, dialosticPressureThree, dialosticPressureFour, dialosticPressureFive, doctorID;
@@ -30,10 +24,10 @@ namespace Exam2
         }
         private double SystolicPressure()
         {
-            averageDialosticPressure = (systolicPressureOne + systolicPressureTwo + systolicPressureThree +
+            averageSystolicPressure = (systolicPressureOne + systolicPressureTwo + systolicPressureThree +
                                         systolicPressureFour +
                                         systolicPressureFive) / 5.0;
-            return averageDialosticPressure;
+            return averageSystolicPressure;
         }
         private double DialosticPressure()
         {
@@ -44,20 +38,21 @@ namespace Exam2
         private string PatientStatus()
         {
             if ((averageSystolicPressure <= 90 || averageSystolicPressure >= 160) 
-                || (averageDialosticPressure <= 60 || averageDialosticPressure>= 90))
+                || (averageDialosticPressure <= 60 || averageDialosticPressure >= 90))
                 return "WARNING";
             return "NORMAL";
+            
         }
         private string DoctorsName()
         {
             switch (doctorID)
             {
                 case 0:
-                    return doctorName = doctor0;
+                    return doctorName = DOCTOR0;
                 case 1:
-                    return doctorName = doctor1;
+                    return doctorName = DOCTOR1;
                 default:
-                    return doctorName = doctor2;
+                    return doctorName = DOCTOR2;
             }
         }
         private void DisplayOutput(string patientName, string doctorName,double systolicPressureAverage, double dialosticPressureAverage, string status)
